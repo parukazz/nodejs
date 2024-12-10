@@ -11,7 +11,7 @@
 // console.log(userDua);
 
 // const halo = "Hello World!";
-// console.log(halo);
+// console.log(halo)
 
 // Asynchronus
 const getUser = (id, callback) => {
