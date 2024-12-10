@@ -4,3 +4,6 @@ Node.js itu runtime dimana kita bisa menjalankan javascript di dalamnya (so node
 
 runtime environment for executing javascript code
 
+REPL:
+Read-Eval-Print-Loop
+
